@@ -10,12 +10,13 @@
 
 > **What this is.** A working reproduction of the power architecture Renesas published in its
 > October 2025 white paper *Power Architecture Evolution in Data Centers*. The goal is not to
-> ship a product. It is to demonstrate the full engineering arc that a power firmware lead is
-> expected to own: reading the topology, selecting the right Renesas silicon and justifying it,
-> and writing the production-grade firmware that makes it run. Every choice in this repo is made
-> the way it would be made on a real design, and the reasoning is written down.
+> ship a product. It is meant to read as a reference design: the concepts and the engineering
+> decisions behind the firmware, from understanding the topology, to selecting and justifying the
+> right Renesas silicon, to writing the production-grade firmware that makes it run. Every choice
+> in this repo is made the way it would be on a real design, and the reasoning is written down.
 >
 > This is an independent learning and portfolio build. It is not an official Renesas deliverable.
+
 
 ---
 
